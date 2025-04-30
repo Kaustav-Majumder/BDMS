@@ -16,7 +16,7 @@ Blood Bank Management System is a php based web project with both admin and user
         ii>git clone https://github.com/Kaustav-Majumder/BDMS.git
      
      
-4. Extract files in C:\xampp\htdocs.
+4. Extract files in [XAMPP install directory]\htdocs.
 
 5. Open link localhost/phpmyadmin
 

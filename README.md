@@ -9,12 +9,6 @@ Blood Bank Management System is a php based web project with both admin and user
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
 3. Download project from github(https://github.com/Kaustav-Majumder/BDMS.git).
-
-   OR follow gitbash commands <br>
-     ```t
-         i>cd C:\\xampp\htdocs\
-        ii>git clone https://github.com/Kaustav-Majumder/BDMS.git
-     
      
 4. Extract files in [XAMPP install directory]\htdocs.
 
